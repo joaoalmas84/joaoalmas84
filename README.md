@@ -5,30 +5,53 @@ I’m a Computer Engineering student at ISEC, focused on software development. I
 
 ### Programming Languages:
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="./icons/c.svg" height="30" alt="c logo" />
-  <img src="./icons/cpp.svg" height="30" alt="cplusplus logo" />
-  <img src="./icons/html.svg" height="30" alt="html5 logo" />
-  <img src="./icons/css.svg" height="30" alt="css3 logo" />
-  <img src="./icons/js.svg" height="30" alt="javascript logo" />
-  <img src="./icons/react.svg" height="30" alt="react" />
-  <img src="./icons/nodejs.svg" height="30" alt="nodejs" />
-  <img src="./icons/php.svg" height="30" alt="php logo" />
-  <img src="./icons/mysql.svg" height="30" alt="mysql" />
-  <img src="./icons/postman.svg" height="30" alt="postman" />
-  <img src="./icons/git.svg" height="30" alt="git logo" />
-  <img src="./icons/bash.svg" height="30" alt="bash logo" />
-  <img src="./icons/linux.svg" height="30" alt="linux logo" />
-  <img src="./icons/latex.svg" height="30" alt="latex logo" />
-  <img src="./icons/npm.svg" height="30" alt="npm logo" />
-  <img src="./icons/photoshop.svg" height="30" alt="photoshop logo" />
-  <img src="./icons/adobeIlustrator.svg" height="30" alt="illustrator" />
-  <img src="./icons/putty.svg" height="30" alt="putty logo" />
-  <img src="./icons/matlab.png" height="30" alt="matlab" />
+    <img src="./icons/c.svg" height="30" alt="c logo" title="C programing language"/>
+    <img src="./icons/cpp.svg" height="30" alt="cplusplus logo" title="C++">
+    <img src="./icons/java.svg" height="30" alt="cplusplus logo" title="Java">
+    <img src="./icons/js.svg" height="30" alt="javascript logo" title="Javascript"/>
+    <img src="./icons/typescript.svg" height="30" alt="TypeScript" title="TypeScript"/>
+    <img src="./icons/dart.svg" height="30" alt="dart logo" title="Dart"/>
+    <img src="./icons/kotlin.svg" height="30" alt="Flutter" title="Kotlin"/>
+    <img src="./icons/c%23.png" height="30" alt="c# logo" title="C#"/>
+    <img src="./icons/sql.png" height="30" alt="SQL" title="SQL"/>
+    <img src="./icons/php.svg" height="30" alt="php logo" title="PHP"/>
+    <img src="./icons/matlab.png" height="30" alt="matlab" title="MATLAB"/>
 </div>
 
 ### Frameworks & Libraries:
-<!-- Add your frameworks and libraries icons here -->
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="./icons/react.svg" height="30" alt="react" title="React"/>
+    <img src="./icons/angular.png" height="30" alt="angular" title="Angular"/>
+    <img src="./icons/spring.svg" height="30" alt="spring" title="Spring"/>
+    <img src="./icons/flutter.svg" height="30" alt="Flutter" title="Flutter"/>
+    <img src="./icons/dotnet.svg" height="30" alt=".NET Core logo" title=".NET Core" />
+</div>
 
 ### Tools & Development:
-<!-- Add your tools and development icons here -->
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="./icons/git.svg" height="30" alt="git logo" title="Git"/> 
+    <img src="./icons/latex.svg" height="30" alt="latex logo" title="LateX"/>
+    <img src="./icons/npm.svg" height="30" alt="npm logo" title="npm"/>
+    <img src="./icons/postman.svg" height="30" alt="postman" title="Postman"/>
+    <img src="./icons/nodejs.svg" height="30" alt="nodejs" title="Node.js"/>
+    <img src="./icons/maven.svg" height="30" alt="maven" title="Maven"/>
+</div>
 
+### Operating Systems & Scripting
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="./icons/linux.svg" height="30" alt="linux logo" title="Linux"/>
+    <img src="./icons/bash.svg" height="30" alt="Bash Scripting" title="Bash" />
+</div>
+<p></p>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="./icons/windows.svg" height="30" alt="linux logo" title="Linux"/>
+    <img src="./icons/bat.png" height="30" alt="Batch Scripting logo" title="Batch" />
+    <img src="./icons/powershell.svg" height="30" alt="PowerShell logo" title="PowerShell" />
+</div>
+
+### Databases:
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="./icons/mysql.svg" height="30" alt="MySQL" title="MySQL"/>
+    <img src="./icons/firebase.png" height="30" alt="Firebase" title="firebase"/>
+    <img src="./icons/Microsoft_SQL_Server.svg" height="30" alt="Microsoft_SQL_Server" title="Microsoft SQL Server"/>
+</div>
