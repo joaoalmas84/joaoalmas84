@@ -19,7 +19,7 @@ I’m a Computer Engineering student at ISEC, focused on software development. I
     <img src="./icons/typescript.svg" height="30" alt="TypeScript" title="TypeScript"/>
     <img src="./icons/dart.svg" height="30" alt="dart logo" title="Dart"/>
     <img src="./icons/kotlin.svg" height="30" alt="kotlin logo" title="Kotlin"/>
-    <img src="./icons/c%23.png" height="30" alt="C# logo" title="C#"/>
+    <img src="./icons/c_sharp.png" height="30" alt="c_sharp logo" title="C#"/>
     <img src="./icons/sql.png" height="30" alt="SQL logo" title="SQL"/>
     <img src="./icons/php.svg" height="30" alt="php logo" title="PHP"/>
     <img src="./icons/matlab.png" height="30" alt="MATLAB logo" title="MATLAB"/>
