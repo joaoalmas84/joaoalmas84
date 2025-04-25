@@ -60,5 +60,5 @@ I’m a Computer Engineering student at ISEC, focused on software development. I
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="./icons/mysql.svg" height="30" alt="MySQL logo" title="MySQL"/>
     <img src="./icons/firebase.png" height="30" alt="Firebase logo" title="Firebase"/>
-    <img src="./icons/Microsoft_SQL_Server.svg" height="30" alt="Microsoft_SQL_Server logo" title="Microsoft SQL Server"/>
+    <img src="./icons/Microsoft_SQL_Server.png" height="30" alt="Microsoft_SQL_Server logo" title="Microsoft SQL Server"/>
 </div>
