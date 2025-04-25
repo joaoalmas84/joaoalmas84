@@ -8,7 +8,7 @@ I’m a Computer Engineering student at ISEC, focused on software development. I
 </div>
 
 
-# 🎯 Tech Loadout 
+# 💻 Tech Loadout 
 
 ### Programming Languages
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
