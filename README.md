@@ -1,10 +1,10 @@
 # 👋 Hi, I’m João!
 I’m a Computer Engineering student at ISEC, focused on software development. I’m passionate about building scalable solutions, developing web applications, and exploring new technologies to create efficient and innovative software.
 
-<div style="display: flex; gap: 10px; justify-content: center;">
-<a href="https://www.linkedin.com/in/jo%C3%A3o-afonso-almas-655a1a325/">
-    <img src="./icons/linkedin.svg" height="100" alt="LinkedIn logo" title="My LinkedIn"> 
-</a>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <a href="https://www.linkedin.com/in/jo%C3%A3o-afonso-almas-655a1a325/">
+        <img src="./icons/linkedin.svg" height="150" alt="LinkedIn logo" title="My LinkedIn"> 
+    </a>
 </div>
 
 
