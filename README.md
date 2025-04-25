@@ -3,7 +3,7 @@ I’m a Computer Engineering student at Higher Institute of Engineering of Coimb
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <a href="https://www.linkedin.com/in/jo%C3%A3o-afonso-almas-655a1a325/">
-        <img src="./icons/linkedin.svg" height="150" alt="LinkedIn logo" title="My LinkedIn"> 
+        <img src="./icons/linkedin.svg" height="100" alt="LinkedIn logo" title="My LinkedIn"> 
     </a>
 </div>
 
