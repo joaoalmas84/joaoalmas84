@@ -1,5 +1,5 @@
 # 👋 Hi, I’m João!
-I’m a Computer Engineering student at Higher Institute of Engineering of Coimbra, focused on software development. I’m passionate about building scalable solutions, developing web applications, and exploring new technologies to create efficient and innovative software.
+I’m a Computer Engineering student at the Higher Institute of Engineering of Coimbra, with a strong focus on software development. I’m passionate about creating scalable and efficient solutions, exploring new technologies, and building innovative software that solves real-world problems.
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <a href="https://www.linkedin.com/in/jo%C3%A3o-afonso-almas-655a1a325/">
