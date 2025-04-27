@@ -34,6 +34,13 @@ I’m a Computer Engineering student at the Higher Institute of Engineering of C
     <img src="./icons/dotnet.svg" height="30" alt=".NET Core logo" title=".NET Core" />
 </div>
 
+### Databases
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="./icons/mysql.svg" height="30" alt="MySQL logo" title="MySQL"/>
+    <img src="./icons/firebase.png" height="30" alt="Firebase logo" title="Firebase"/>
+    <img src="./icons/Microsoft_SQL_Server.png" height="30" alt="Microsoft_SQL_Server logo" title="Microsoft SQL Server"/>
+</div>
+
 ### Tools & Development
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="./icons/git.svg" height="30" alt="git logo" title="Git"/> 
@@ -54,11 +61,4 @@ I’m a Computer Engineering student at the Higher Institute of Engineering of C
     <img src="./icons/windows.svg" height="30" alt="windows logo" title="Windows"/>
     <img src="./icons/bat.png" height="30" alt="Batch Scripting logo" title="Batch" />
     <img src="./icons/powershell.svg" height="30" alt="PowerShell logo" title="PowerShell" />
-</div>
-
-### Databases
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <img src="./icons/mysql.svg" height="30" alt="MySQL logo" title="MySQL"/>
-    <img src="./icons/firebase.png" height="30" alt="Firebase logo" title="Firebase"/>
-    <img src="./icons/Microsoft_SQL_Server.png" height="30" alt="Microsoft_SQL_Server logo" title="Microsoft SQL Server"/>
 </div>
