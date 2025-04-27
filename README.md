@@ -41,16 +41,6 @@ I’m a Computer Engineering student at the Higher Institute of Engineering of C
     <img src="./icons/Microsoft_SQL_Server.png" height="30" alt="Microsoft_SQL_Server logo" title="Microsoft SQL Server"/>
 </div>
 
-### Tools & Development
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <img src="./icons/git.svg" height="30" alt="git logo" title="Git"/> 
-    <img src="./icons/latex.svg" height="30" alt="LaTeX logo" title="LaTeX"/>
-    <img src="./icons/npm.svg" height="30" alt="npm logo" title="npm"/>
-    <img src="./icons/postman.svg" height="30" alt="postman logo" title="Postman"/>
-    <img src="./icons/nodejs.svg" height="30" alt="nodejs logo" title="Node.js"/>
-    <img src="./icons/maven.svg" height="30" alt="maven logo" title="Maven"/>
-</div>
-
 ### Operating Systems & Scripting
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="./icons/linux.svg" height="30" alt="linux logo" title="Linux"/>
@@ -61,4 +51,14 @@ I’m a Computer Engineering student at the Higher Institute of Engineering of C
     <img src="./icons/windows.svg" height="30" alt="windows logo" title="Windows"/>
     <img src="./icons/bat.png" height="30" alt="Batch Scripting logo" title="Batch" />
     <img src="./icons/powershell.svg" height="30" alt="PowerShell logo" title="PowerShell" />
+</div>
+
+### Tools & Development
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="./icons/git.svg" height="30" alt="git logo" title="Git"/> 
+    <img src="./icons/latex.svg" height="30" alt="LaTeX logo" title="LaTeX"/>
+    <img src="./icons/npm.svg" height="30" alt="npm logo" title="npm"/>
+    <img src="./icons/postman.svg" height="30" alt="postman logo" title="Postman"/>
+    <img src="./icons/nodejs.svg" height="30" alt="nodejs logo" title="Node.js"/>
+    <img src="./icons/maven.svg" height="30" alt="maven logo" title="Maven"/>
 </div>
