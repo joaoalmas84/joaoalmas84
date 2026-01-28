@@ -1,18 +1,25 @@
 # 👋 Hi, I’m João!
 I’m a Computer Engineering student at Instituto Superior de Engenharia de Coimbra, with a strong focus on software development. I’m passionate about creating scalable and efficient solutions, exploring new technologies, and building innovative software that solves real-world problems.
 
-<div style="display: flex; flex-wrap: wrap; gap: 50px; width: 100%; justify-content: center; font-size: 35px; font-weight: bold; ">
-        <a 
-            href="https://www.joaoafonsoalmas.com/" 
-            style="display: flex; gap: 10px; padding-top: 20px;">
-            <img src="./icons/portfolio.svg" height="75" alt="Portfolio logo" title="My Portfolio"> 
-            <p>Web Portfolio</p>        
+<div align="center">
+  <table border="0">
+    <tr>
+    <td align="center" valign="middle" style="padding: 0 25px;">
+      <a href="https://www.joaoafonsoalmas.com/">
+        <img src="./icons/portfolio.svg" height="75" alt="Portfolio logo" align="middle">
+        <sub><sub><sub>
+          <kbd><b><font size="6" color="white">Web Portfolio</font></b></kbd>
+        </sub></sub></sub>
+      </a>
+    </td>
+      <td align="center" valign="middle" style="padding: 0 25px;">
+        <a href="https://www.linkedin.com/in/jo%C3%A3o-afonso-almas-655a1a325/">
+          <img src="./icons/linkedin.svg" height="100" alt="LinkedIn logo" align="middle">
         </a>
-        <a href="https://www.linkedin.com/in/jo%C3%A3o-afonso-almas-655a1a325/" style="padding-top: 10px;">
-            <img src="./icons/linkedin.svg" height="100" alt="LinkedIn logo" title="My LinkedIn"> 
-        </a>
+      </td>
+    </tr>
+  </table>
 </div>
-
 # 💻 Tech Loadout
 
 ### Programming Languages
