@@ -1,16 +1,19 @@
 # 👋 Hi, I’m João!
 I’m a Computer Engineering student at Instituto Superior de Engenharia de Coimbra, with a strong focus on software development. I’m passionate about creating scalable and efficient solutions, exploring new technologies, and building innovative software that solves real-world problems.
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <a href="https://www.linkedin.com/in/jo%C3%A3o-afonso-almas-655a1a325/">
-        <img src="./icons/linkedin.svg" height="100" alt="LinkedIn logo" title="My LinkedIn"> 
-    </a>
-    <a href="YOUR_PORTFOLIO_URL_HERE">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/renderscript.svg" height="100" alt="Portfolio logo" title="My Portfolio"> 
-    </a>
+<div style="display: flex; flex-wrap: wrap; gap: 50px; width: 100%; justify-content: center">
+        <a 
+            href="https://www.joaoafonsoalmas.com/" 
+            style="display: flex; font-size: 35px; font-weight: bold; gap: 10px; padding-top: 20px;">
+            <img src="./icons/portfolio.svg" height="75" alt="Portfolio logo" title="My Portfolio"> 
+            <p>Web Portfolio</p>        
+        </a>
+        <a href="https://www.linkedin.com/in/jo%C3%A3o-afonso-almas-655a1a325/" style="padding-top: 10px;">
+            <img src="./icons/linkedin.svg" height="100" alt="LinkedIn logo" title="My LinkedIn"> 
+        </a>
 </div>
 
-# 💻 Tech Loadout 
+# 💻 Tech Loadout
 
 ### Programming Languages
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
