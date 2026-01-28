@@ -20,6 +20,7 @@ I’m a Computer Engineering student at Instituto Superior de Engenharia de Coim
     </tr>
   </table>
 </div>
+
 # 💻 Tech Loadout
 
 ### Programming Languages
