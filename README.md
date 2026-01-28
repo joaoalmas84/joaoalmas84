@@ -5,8 +5,10 @@ I’m a Computer Engineering student at Instituto Superior de Engenharia de Coim
     <a href="https://www.linkedin.com/in/jo%C3%A3o-afonso-almas-655a1a325/">
         <img src="./icons/linkedin.svg" height="100" alt="LinkedIn logo" title="My LinkedIn"> 
     </a>
+    <a href="YOUR_PORTFOLIO_URL_HERE">
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/renderscript.svg" height="100" alt="Portfolio logo" title="My Portfolio"> 
+    </a>
 </div>
-
 
 # 💻 Tech Loadout 
 
